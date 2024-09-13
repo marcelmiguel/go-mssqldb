@@ -3,7 +3,7 @@ package namedpipe
 import (
 	"testing"
 
-	"github.com/microsoft/go-mssqldb/msdsn"
+	"github.com/marcelmiguel/go-mssqldb/msdsn"
 	"github.com/stretchr/testify/assert"
 )
 

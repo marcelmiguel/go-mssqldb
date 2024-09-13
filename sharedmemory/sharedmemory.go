@@ -3,7 +3,7 @@ package sharedmemory
 import (
 	"runtime"
 
-	"github.com/microsoft/go-mssqldb/msdsn"
+	"github.com/marcelmiguel/go-mssqldb/msdsn"
 )
 
 type sharedMemoryDialer struct{}

@@ -20,7 +20,7 @@ import (
 	"time"
 	"unicode/utf16"
 
-	"github.com/microsoft/go-mssqldb/msdsn"
+	"github.com/marcelmiguel/go-mssqldb/msdsn"
 )
 
 type MockTransport struct {
